@@ -1,0 +1,11 @@
+# Compilação e arquivos locais
+target/
+**/target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.env
+.env.*
+**/application-local.properties
